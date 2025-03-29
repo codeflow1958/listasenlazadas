@@ -75,6 +75,7 @@ public class DoblementeEnlazada {
 		System.out.println("null");
 	}
 
+
 	public void displayBackward() {
 		Nodo current = tail;
 		while (current != null) {
